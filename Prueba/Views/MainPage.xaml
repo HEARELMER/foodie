@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Prueba.Views.MainPage"
+             Shell.NavBarIsVisible="False">
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,1" EndPoint="0,0">
+            <GradientStop Color="black" Offset="0.0" />
+            <GradientStop Color="{StaticResource Primary}" Offset="0.8" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" Padding="20">
+           
+            <Frame BackgroundColor="Transparent" VerticalOptions="CenterAndExpand" HorizontalOptions="Center">
+                <Image Source="foodie.png" WidthRequest="120" HeightRequest="180" Aspect="AspectFit"/>
+            </Frame>
+
+            <StackLayout x:Name="sesion" Spacing="10" VerticalOptions="EndAndExpand">
+                <Button Text="Iniciar Sesión" 
+                        Clicked="btnSignUp_Clicked" 
+                        BackgroundColor="{StaticResource Primary}" 
+                       Style="{StaticResource buttonPrimary}"/>
+
+                <Button Text="Registrarse" 
+                        Clicked="Button_Clicked"
+                        BackgroundColor="White" 
+                        TextColor="{StaticResource Primary}" 
+                        Style="{StaticResource buttonPrimary}"
+                        BorderColor="{StaticResource Primary}"
+                        BorderWidth="2"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

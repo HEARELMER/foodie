@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba.Views.AboutPage"
+             xmlns:vm="clr-namespace:Prueba.ViewModels"
+             Title="Inicio">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Clicked="ToolbarItem_Clicked"  IconImageSource="carrito.png" />
+        <ToolbarItem   IconImageSource="user.png" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        
+        <ScrollView VerticalOptions="FillAndExpand">
+
+            <StackLayout Padding="24" Spacing="20">
+                <ScrollView Orientation="Horizontal" >
+                    <StackLayout Orientation="Horizontal">
+                        <Frame Style="{StaticResource StackContent }" Background="#FCE6D9" CornerRadius="16" WidthRequest="180" >
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="@/hamburger.png" WidthRequest="20" HeightRequest="20" Aspect="AspectFit"/>
+                                <Label Text="Hamburguesa" TextColor="Black" FontSize="20" />
+
+                            </StackLayout>
+
+                        </Frame>
+                        <Frame Style="{StaticResource StackContent }" Background="#FCE6D9" CornerRadius="16" WidthRequest="180" >
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="@/ice_cream_cone.png" WidthRequest="20" HeightRequest="20" Aspect="AspectFit"/>
+                                <Label Text="Helado" TextColor="Black" FontSize="20" />
+
+                            </StackLayout>
+
+                        </Frame>
+                        <Frame Style="{StaticResource StackContent }" Background="#FCE6D9" CornerRadius="16" WidthRequest="180" >
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="@/hamburger.png" WidthRequest="20" HeightRequest="20" Aspect="AspectFit"/>
+                                <Label Text="Hamburguesa" TextColor="Black" FontSize="20" />
+
+                            </StackLayout>
+
+                        </Frame>
+                        <Frame Style="{StaticResource StackContent }" Background="#FCE6D9" CornerRadius="16" WidthRequest="180" >
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="@/ice_cream_cone.png" WidthRequest="20" HeightRequest="20" Aspect="AspectFit"/>
+                                <Label Text="Helado" TextColor="Black" FontSize="20" />
+
+                            </StackLayout>
+
+                        </Frame>
+                    </StackLayout>
+               
+                </ScrollView>
+                <Frame  Style="{StaticResource StackContent}" HasShadow="True" Padding="20" CornerRadius="24">
+                    <StackLayout>
+                        <Label Text="S/89" FontSize="30"  FontAttributes="Bold"  TextColor="{StaticResource Primary}"  HorizontalTextAlignment="End"/>
+                        <Image Source="@/comida.png" WidthRequest="120" HeightRequest="180" Aspect="AspectFit"/>
+                        <Label Text="Comida 1" FontSize="30" FontFamily="Poppins"  FontAttributes="Bold"  TextColor="Black"  HorizontalTextAlignment="Center"/>
+                        <Button Style="{StaticResource buttonPrimary}" Text="Comprar"  />
+                    </StackLayout>
+                   
+                </Frame>
+
+            <Frame  Style="{StaticResource StackContent}"  HasShadow="True"  Padding="20" CornerRadius="24">
+                <StackLayout>
+                    <Label Text="S/89" FontSize="30"  FontAttributes="Bold"  TextColor="{StaticResource Primary}"  HorizontalTextAlignment="End"/>
+                    <Image Source="@/comida_2.png" WidthRequest="120" HeightRequest="180" Aspect="AspectFit"/>
+                    <Label Text="Comida 2" FontSize="30" FontFamily="Poppins"  FontAttributes="Bold"  TextColor="Black"  HorizontalTextAlignment="Center"/>
+                    <Button Style="{StaticResource buttonPrimary}" Text="Comprar"  />
+                </StackLayout>
+            </Frame>
+
+                <ScrollView Orientation="Horizontal"  >
+                    <StackLayout Padding="20" Orientation="Horizontal" Spacing="20">
+                        <Frame Style="{StaticResource StackContent }" Padding="10" Background="white" HasShadow="True" CornerRadius="16" WidthRequest="280" >
+                            <StackLayout Orientation="Horizontal" Spacing="20">
+                                <Image Source="@/rice.png" WidthRequest="120" HeightRequest="120" Aspect="AspectFit"/>
+                                <StackLayout>
+                                    <Label Text="Arroz con pato" HorizontalOptions="StartAndExpand" TextColor="Black" FontSize="20" />
+                                    <Label Text="S/89" FontSize="30"  FontAttributes="Bold"  TextColor="{StaticResource Primary}"  HorizontalTextAlignment="Center"/>
+                                </StackLayout>
+
+                            </StackLayout>
+
+                        </Frame>
+                        <Frame Style="{StaticResource StackContent }" Padding="10" Background="white" HasShadow="True" CornerRadius="16" WidthRequest="270" >
+                            <StackLayout Orientation="Horizontal" Spacing="20">
+                                <Image Source="@/hamburguesa.png" WidthRequest="120" HeightRequest="120" Aspect="AspectFit"/>
+                                <StackLayout>
+                                    <Label Text="Hamburguesa" HorizontalOptions="StartAndExpand" TextColor="Black" FontSize="20" />
+                                    <Label Text="S/89" FontSize="30"  FontAttributes="Bold"  TextColor="{StaticResource Primary}"  HorizontalTextAlignment="Center"/>
+                                </StackLayout>
+
+                            </StackLayout>
+
+                        </Frame>
+                    </StackLayout>
+
+                </ScrollView>
+            </StackLayout>
+            
+        </ScrollView>
+    </ContentPage.Content>
+
+</ContentPage>

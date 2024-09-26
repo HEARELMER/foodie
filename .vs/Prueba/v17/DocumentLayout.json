@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\itemspage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\newitempage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\newitempage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\itemdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\itemdetailpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\views\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88761931-3818-4C70-A3C2-C03625A05FB4}|Prueba\\Prueba.csproj|solutionrelative:prueba\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Prueba\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\AppShell.xaml",
+              "RelativeToolTip": "Prueba\\AppShell.xaml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:33:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewItemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\NewItemPage.xaml",
+              "RelativeDocumentMoniker": "Prueba\\Views\\NewItemPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\NewItemPage.xaml",
+              "RelativeToolTip": "Prueba\\Views\\NewItemPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:33:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\ItemDetailPage.xaml",
+              "RelativeDocumentMoniker": "Prueba\\Views\\ItemDetailPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\ItemDetailPage.xaml",
+              "RelativeToolTip": "Prueba\\Views\\ItemDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:33:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\ItemsPage.xaml",
+              "RelativeDocumentMoniker": "Prueba\\Views\\ItemsPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\ItemsPage.xaml",
+              "RelativeToolTip": "Prueba\\Views\\ItemsPage.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:32:39.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Prueba\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "Prueba\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:27:00.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Prueba\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Prueba\\Views\\AboutPage.xaml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:28:18.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Prueba\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Prueba\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:27:12.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Prueba\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Prueba\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:16:07.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Prueba\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Prueba\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:27:02.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Prueba\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "Prueba\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:24:30.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\App.xaml",
+              "RelativeDocumentMoniker": "Prueba\\App.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\App.xaml",
+              "RelativeToolTip": "Prueba\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T01:08:57.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Prueba\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba\\App.xaml.cs",
+              "RelativeToolTip": "Prueba\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:06:15.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

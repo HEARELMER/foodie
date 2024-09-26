@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Prueba.Android||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2765DD-7B80-453F-B600-FC9096B4E18C}|Prueba.Android\\Prueba.Android.csproj|c:\\users\\acer\\desktop\\v-senati\\mobilr\\prueba\\prueba.android\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|7bd511f3-f83b-49f9-82c6-c68a130a909e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prueba.Android",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba.Android\\Prueba.Android.csproj",
+              "RelativeDocumentMoniker": "Prueba.Android\\Prueba.Android.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\V-senati\\mobilr\\Prueba\\Prueba.Android\\Prueba.Android.csproj",
+              "RelativeToolTip": "Prueba.Android\\Prueba.Android.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T23:25:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c2a18b40-6ff3-3d71-b282-8737b5098a24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

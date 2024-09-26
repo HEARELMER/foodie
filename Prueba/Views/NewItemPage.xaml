@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Prueba.Views.NewItemPage"
+             Shell.PresentationMode="ModalAnimated"
+             Title="Nueva Compra"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+    <ContentPage.Content>
+        <StackLayout Spacing="30" Padding="15" Background="white">
+            <StackLayout Spacing="3"  >
+                <Label Text="Producto" TextColor="Black" FontSize="Medium" />
+                <Entry Text="{Binding Text, Mode=TwoWay}" TextColor="Black"  Placeholder="El producto" PlaceholderColor="Gray" FontSize="Medium" />
+                <Label TextColor="Black" Text="Descripcion" FontSize="Medium" />
+                <Editor Text="{Binding Description, Mode=TwoWay}"  TextColor="Black"  Placeholder="El producto" PlaceholderColor="Gray"  AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+            </StackLayout>
+           
+            <StackLayout Spacing="20">
+
+                <Button Text="Cancelar" Style="{StaticResource buttonPrimary}" Background="red" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+                <Button Text="Guardar" Style="{StaticResource buttonPrimary}"  Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Prueba.Views.LoginPage" Shell.NavBarIsVisible="False">
+    <ContentPage.Content >
+        <StackLayout Background="#f8e8d0"  VerticalOptions="CenterAndExpand" Spacing="10">
+            <Frame BackgroundColor="Transparent" VerticalOptions="CenterAndExpand">
+                <Image Source="@/foodie_2.png" WidthRequest="120" HeightRequest="180" Aspect="AspectFit"/>
+            </Frame>
+
+            <StackLayout  >
+                <Frame Style="{StaticResource StackContent}" HorizontalOptions="FillAndExpand"  >
+                    <StackLayout Spacing="60">
+                        <StackLayout Spacing="15" >
+
+                            <Label Text="Bienvenido de nuevo" FontSize="Large" TextColor="Black" HorizontalOptions="Center" />
+                            <Label Text="Hola , inicia sesión para continuar!" FontSize="Medium" TextColor="Gray" HorizontalOptions="Center" />
+
+                            <Frame  Style="{StaticResource StackEntry}">
+                                <Entry Placeholder="Correo electrónico" PlaceholderColor="Gray" TextColor="Black" Text="{Binding Email}" Keyboard="Email" />
+                            </Frame>
+
+                            <Frame Style="{StaticResource StackEntry}">
+                                <Entry Placeholder="Contraseña" IsPassword="True" PlaceholderColor="Gray" TextColor="Black" Text="{Binding Password}" />
+
+                            </Frame>
+
+                        </StackLayout>
+
+                        <StackLayout >
+                            <Button Text="Iniciar sesión" Command="{Binding LoginCommand}" Style="{ StaticResource buttonPrimary}" />
+
+                            <Label Text="¿Olvidaste tu contraseña?" FontSize="Small" TextColor="{StaticResource Primary}" HorizontalOptions="Center" />
+
+                            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                                <BoxView HeightRequest="1" WidthRequest="100" BackgroundColor="LightGray" VerticalOptions="Center" />
+                                <Label Text="O" FontSize="Small" TextColor="Gray" HorizontalOptions="Center" />
+                                <BoxView HeightRequest="1" WidthRequest="100" BackgroundColor="LightGray" VerticalOptions="Center" />
+                            </StackLayout>
+
+                            <Button Text="Conectar con Facebook" BackgroundColor="#1877F2" TextColor="White" Style="{ StaticResource buttonPrimary}"/>
+                            <Button Text="Conectar con Google" BackgroundColor="White" TextColor="Gray" Style="{ StaticResource buttonPrimary}" />
+
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

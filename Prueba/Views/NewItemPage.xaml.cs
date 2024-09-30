@@ -17,5 +17,6 @@ namespace Prueba.Views
             InitializeComponent();
             BindingContext = new NewItemViewModel();
         }
+       
     }
 }
